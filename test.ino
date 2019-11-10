@@ -1,9 +1,9 @@
 void setup() {
-  // put your setup code here, to run once:
+  // Titan init valuse
 
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  // Tilan logic here
 
 }
